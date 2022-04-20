@@ -1,4 +1,32 @@
 # EmployeeTracker-CMS
+  
+  ## Description
+  This repository contains software for running a command-line based content management system. The system was designed to access and create information for a multi-department company.
+  
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [Credits](#credits)
+  - [License](#License)
+  
+  ## Installation
+- Go to https://github.com/AugustusMadden/readMe-Generator
+- Press the green code button on the top-right.
+- Open Terminal/GitBash, and navigate to the space where you want the file to exist.
+- Use the command `git clone <url>` and download.
+- Open the folder in VS Code or your preferred coding software
+
+  
+  ## Usage
+  Activate via your preferred terminal or gitbash. Navigate to the file directory the software has been stored on locally, and initiate with the function 'node server'. Click on [this link](https://drive.google.com/file/d/1tbd3Ez0DwPcp14_eRqMpKAtkjbOoC8nP/view) to view a video walkthrough of the process.
+  
+
+    
+  ## Credits
+    Thanks to MDN and W3 for support documentation.
+
+  ## License
 
 BSD 3-Clause License
 

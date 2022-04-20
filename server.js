@@ -94,8 +94,8 @@ function addDept() {
     inquirer
         .prompt(deptQuestion)
         .then((data) => {
-            db.query('INSERT INTO roles (name) VALUES (?)', [data.deptName], (err, result) => {
-                console.log('New department added.');
+            db.query('INSERT INTO department (name) VALUES (?)', [data.deptName], (err, result) => {
+                console.log(data.deptName);
                 init();
             })
         })
