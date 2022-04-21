@@ -11,7 +11,7 @@
   - [License](#License)
   
   ## Installation
-- Go to https://github.com/AugustusMadden/readMe-Generator
+- Go to https://github.com/AugustusMadden/EmployeeTracker-CMS
 - Press the green code button on the top-right.
 - Open Terminal/GitBash, and navigate to the space where you want the file to exist.
 - Use the command `git clone <url>` and download.
